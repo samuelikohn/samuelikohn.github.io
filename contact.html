@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<title>Contact Us</title>
+		<link rel="stylesheet" href="styles.css">
+	</head>
+	<body>
+		<nav>
+			<h1>My Travel Website</h1>
+			<ul>
+				<li>
+					<a href="index.html" id="home">Home</a>
+				</li>
+				<li>
+					<a href="about.html" id="contact">About Us</a>
+				</li>
+				<li>
+					<a href="contact.html" id="contact">Contact Us</a>
+				</li>
+			</ul>
+		</nav>
+		<div class="bkgd">
+			<h1>Contact Us</h1>
+			<p>Feel free to contact us to know more about your conditions and for treatment methods.</p>
+
+			<form id="contactForm">
+				<div>
+					<label for="name">Name</label>
+					<input type="text" id="name" name="name" required>
+				</div>
+				<div>
+					<label for="email">Email</label>
+					<input type="email" id="email" name="email" required>
+				</div>
+				<div>
+					<label for="message">Message</label>
+					<textarea id="message" name="message" rows="5" required></textarea>
+				</div>
+				<button type="submit" onclick="thankyou()">Submit</button>
+			</form>
+		</div>
+		<script src="travel_recommendation.js"></script>
+	</body>
+</html>
