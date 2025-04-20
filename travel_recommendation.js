@@ -1,6 +1,6 @@
 let searchbtn = document.getElementById("btnSearch");
 let clearbtn = document.getElementById("btnClear");
-let resultsList = resultContainer.querySelector('ul');
+let resultsList = document.getElementById("resultContainer").querySelector('ul');
 let mydiv = document.getElementById("dropdown");
 let query = document.getElementById("searchInput");
 
