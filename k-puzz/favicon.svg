@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64.000099"
+   height="64.000061"
+   viewBox="0 0 16.933359 16.933349"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="layer1">
+    <g
+       id="g8"
+       transform="translate(-21.859058,-5.9736293)">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.55534;stroke-linecap:round;paint-order:fill markers stroke"
+         id="rect4"
+         width="5.0609999"
+         height="4.0423293"
+         x="33.43969"
+         y="11.759522"
+         ry="0.86285758" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.55534;stroke-linecap:round;paint-order:fill markers stroke"
+         id="rect4-9"
+         width="5.0609999"
+         height="4.0423293"
+         x="22.150793"
+         y="6.146358"
+         ry="0.86285758" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.493186;stroke-linecap:round;paint-order:fill markers stroke"
+         id="rect4-2"
+         width="5.1212754"
+         height="3.1505973"
+         x="33.409554"
+         y="14.167535"
+         ry="0" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.493186;stroke-linecap:round;paint-order:fill markers stroke"
+         id="rect4-2-5"
+         width="5.1212754"
+         height="3.1505973"
+         x="22.120657"
+         y="8.613389"
+         ry="0" />
+      <g
+         id="g7"
+         transform="matrix(0.33333388,0,0,0.33333388,21.859058,5.9736293)">
+        <g
+           id="g5"
+           transform="translate(-0.0025273,0.00541096)">
+          <g
+             id="g6"
+             transform="matrix(0.95934497,0,0,0.97925198,0.0025273,-0.00541096)">
+            <rect
+               style="fill:#d96c00;fill-opacity:1;fill-rule:evenodd;stroke-width:1.04132;stroke-linecap:round;paint-order:fill markers stroke"
+               id="rect3-3"
+               width="16.962961"
+               height="14.434308"
+               x="0.24976894"
+               y="19.900547"
+               ry="3.379195" />
+            <rect
+               style="fill:#d96c00;fill-opacity:1;fill-rule:evenodd;stroke-width:0.846687;stroke-linecap:round;paint-order:fill markers stroke"
+               id="rect3-7-6"
+               width="16.725267"
+               height="9.6784039"
+               x="0.36861598"
+               y="17.991665" />
+            <g
+               id="g2">
+              <rect
+                 style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.05833;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+                 id="rect1"
+                 width="16.592659"
+                 height="33.525993"
+                 x="0.52916503"
+                 y="0.52916503"
+                 ry="2.6549463" />
+              <rect
+                 style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.07878;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+                 id="rect2"
+                 width="16.933332"
+                 height="1.0583333"
+                 x="0.26458332"
+                 y="16.933332" />
+            </g>
+          </g>
+        </g>
+        <g
+           id="g3"
+           transform="matrix(0.95934159,0,0,0.97924804,1.2442952,-7.3737613)">
+          <g
+             id="g4">
+            <rect
+               style="fill:#01a9db;fill-opacity:1;fill-rule:evenodd;stroke-width:1.04132;stroke-linecap:round;paint-order:fill markers stroke"
+               id="rect3"
+               width="16.962961"
+               height="14.434308"
+               x="34.254726"
+               y="44.164276"
+               ry="3.379195" />
+            <rect
+               style="fill:#01a9db;fill-opacity:1;fill-rule:evenodd;stroke-width:0.846687;stroke-linecap:round;paint-order:fill markers stroke"
+               id="rect3-7"
+               width="16.725267"
+               height="9.6784039"
+               x="34.373573"
+               y="42.284702" />
+            <g
+               id="g2-5"
+               transform="translate(34.004959,24.822204)">
+              <rect
+                 style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.05833;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+                 id="rect1-8"
+                 width="16.592659"
+                 height="33.525993"
+                 x="0.52916503"
+                 y="0.52916503"
+                 ry="2.6549463" />
+              <rect
+                 style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.07878;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+                 id="rect2-7"
+                 width="16.933332"
+                 height="1.0583333"
+                 x="0.26458332"
+                 y="16.933332" />
+            </g>
+          </g>
+        </g>
+        <rect
+           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:0.495078;stroke-linecap:round;paint-order:fill markers stroke"
+           id="rect6"
+           width="9.260417"
+           height="1.5875"
+           x="16.404167"
+           y="16.404167"
+           ry="0" />
+        <rect
+           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:0.495078;stroke-linecap:round;paint-order:fill markers stroke"
+           id="rect6-6"
+           width="9.260417"
+           height="1.5875"
+           x="25.135416"
+           y="33.337502"
+           ry="0" />
+        <rect
+           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:0.684979;stroke-linecap:round;paint-order:fill markers stroke"
+           id="rect6-3"
+           width="1.5875"
+           height="17.727085"
+           x="24.077084"
+           y="17.197916"
+           ry="0" />
+      </g>
+    </g>
+  </g>
+</svg>
