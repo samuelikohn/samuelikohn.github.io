@@ -1,0 +1,113 @@
+<html>
+    <head>
+        <!--meta http-equiv="refresh" content="0;url=https://personalportfolio-git-main-sam-kohns-projects.vercel.app/" /-->
+        <title>Sam Kohn</title>
+        <style>
+            @import url('https://fonts.googleapis.com/css?family=Inter');
+            * {
+                font-family: 'Inter';
+            }
+            body {
+                min-height: 100vh;
+                background-color: hsl(224 71.4% 4.1%);
+                color: hsl(210 20% 98%);
+                font-family: var(--font-sans);
+                -webkit-font-smoothing: antialiased;
+                -moz-osx-font-smoothing: grayscale;
+            }
+            section {
+                display: flex;
+                flex-direction: column-reverse;
+                align-items: start;
+                gap: 2rem;
+            }
+            img {
+                color: transparent;
+                border-radius: 0.5rem;
+            }
+            .d1 {
+                margin-left: auto;
+                margin-right: auto;
+                display: flex;
+                max-width: 36rem;
+                flex-direction: column;
+                padding-left: 2rem;
+                padding-right: 2rem;
+            }
+            .d2 {
+                display: flex;
+                max-width: 20rem;
+                flex-direction: column;
+            }
+            h1 {
+                font-size: 2.25rem;
+                line-height: 2.5rem;
+                text-wrap: balance;
+                font-family: var(--font-sans);
+                font-size: 3rem;
+                line-height: 1;
+                letter-spacing: 0.025em;
+                text-decoration-color: hsl(var(--border) / 0.75);
+                text-decoration-thickness: 2px;
+                font-weight: 700;
+            }
+            p {
+                font-size: 0.875rem;
+                line-height: 1.25rem;
+                margin-top: 0.5rem;
+                white-space: nowrap;
+                font-weight: 500;
+            }
+            a {
+                color: hsl(210 20% 98%);
+            }
+            a p {
+                font-size: 1.5rem;
+                text-wrap: balance;
+            }
+            @media (min-width: 768px) {
+                section {
+                    flex-direction: row-reverse;
+                    align-items: center;
+                    justify-content: space-between;
+                }
+            }
+            @media (min-width: 640px) {
+                div {
+                    max-width: 100%;
+                }
+                p {
+                    font-size: 1rem;
+                    line-height: 1.5rem;
+                }
+                h1 {
+                    font-size: 3rem;
+                    line-height: 1;
+                }
+            }
+
+        </style>
+    </head>
+    <body>
+        <div class="d1 mx-auto flex max-w-4xl flex-col px-8">
+            <section>
+                <img
+                    alt="Photo of Sam"
+                    fetchpriority="high"
+                    width="175"
+                    decoding="async"
+                    data-nimg="1"
+                    src="./sam.jpg"
+                />
+                <div class="d2">
+                    <h1>Hi I'm Sam!</h1>
+                    <p>I'm a software developer based in Chicago, IL</p>
+                    <br/>
+                    <a href="https://personalportfolio-git-main-sam-kohns-projects.vercel.app/">
+                        <p>Looking for my full website? Click here!</p>
+                    </a>
+                </div>
+            </section>
+        </div>
+    </body>
+</html>
